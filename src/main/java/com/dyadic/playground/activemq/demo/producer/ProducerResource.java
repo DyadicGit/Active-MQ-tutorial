@@ -1,4 +1,4 @@
-package com.dyadic.playground.activemq.demo.implicitlyDeclared;
+package com.dyadic.playground.activemq.demo.producer;
 
 
 import org.springframework.jms.core.JmsTemplate;

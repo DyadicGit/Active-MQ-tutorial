@@ -1,4 +1,4 @@
-package com.dyadic.playground.activemq.demo;
+package com.dyadic.playground.activemq.demo.listener;
 
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Component;

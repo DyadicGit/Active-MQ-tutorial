@@ -1,4 +1,4 @@
-package com.dyadic.playground.activemq.demo.implicitlyDeclared;
+package com.dyadic.playground.activemq.demo.config;
 
 
 import org.apache.activemq.ActiveMQConnectionFactory;
